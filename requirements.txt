@@ -1,2 +1,2 @@
 celery==4.4.2
-fabric3==1.14.post1
+# billiard==3.6.0.0 # Uncomment to 'fix'
